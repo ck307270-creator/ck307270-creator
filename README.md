@@ -1,41 +1,34 @@
-<!-- 🚀 Galaxy Neon — Premium README for Chandan Kumar -->
+<!-- 🚀 Modern Animated Header | Data Science Learner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=34&pause=700&color=9B59FF&center=true&vCenter=true&width=900&lines=Chandan+Kumar+%E2%9A%A1+%7C+Data+%26+Galaxy+Neon;Python+%7C+SQL+%7C+Power+BI+%7C+ML;Aspiring+Data+Analyst+%7C+Neon+Vibes" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=9F00FF&vCenter=true&width=900&lines=Data+Science+Learner;Python+%7C+SQL+%7C+Power+BI;Aspiring+Data+Analyst;Welcome+to+My+Tech+Space!" alt="typing" />
+</p>
+
+<!-- ✨ Galaxy Neon Gradient Divider -->
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png" width="80%" />
+</p>
+
+<h1 align="center">🌌 Hi, I'm Chandan Kumar! 👋</h1>
+
+<p align="center" style="font-size:1.05em">
+  <b>🚀 Data Science</b> &nbsp;|&nbsp; <b>📈 Aspiring Data Analyst</b> &nbsp;|&nbsp; <b>🧠 Python & Power BI</b>
+</p>
+
+<!-- 🌙 Neon Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ck307270-creator07&style=for-the-badge&color=9F00FF" />
 </p>
 
 ---
 
-# 🌌 Hi, I'm **Chandan Kumar** — Data Scientist in the Galaxy Neon
-
-<p align="center">
-  <b>🔭 Data Explorer</b> • 
-  <b>📊 Aspiring Data Analyst</b> • 
-  <b>🧪 Python • SQL • Power BI • ML</b>
-</p>
-
----
-
-## ✨ **Neon Status Highlights**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning%20%F0%9F%92%BB-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20Machine%20Learning-9B59FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20PowerBI%20%7C%20SQL-00E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Theme-Galaxy%20Neon-8A2BE2?style=for-the-badge" />
-</p>
-
----
-
-## 🧬 **My Tech Story — Automate, Analyze, Amaze**
+## 🧬 My Tech Story: Automating + Innovating Across Stacks
 
 ```mermaid
 flowchart TD
-  A([Start]) --> B[Learn: Python]
-  B --> C{Skills}
-  C --> D[SQL & Databases]
-  C --> E[Pandas & EDA]
-  C --> F[ML Models]
-  F --> G[Power BI Dashboards]
-  G --> H[Deploy & Automate]
-  H --> I([Ship Projects 🚀])
+    Start{{Learn Basics}} --> Python[Python for Data]
+    Python --> SQL[SQL & Databases]
+    SQL --> EDA[Exploratory Data Analysis]
+    EDA --> ML[Basic Machine Learning]
+    ML --> BI[Dashboards in Power BI]
+    BI --> Projects[End-to-End Projects]
